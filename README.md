@@ -7,6 +7,8 @@ Features:
   - Persistent Conversations
   - Users with accounts 
   - Websockets for realtime interaction
+  
+![example](https://cdn.pbrd.co/images/I0YWM4l.png)
 
 ###  :warning: Disclaimer! :warning:
 
